@@ -1,0 +1,24 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "A web project based on the http project",
+  "homepage": "https://github.com/harshit-kumar23/webcrawlerhttp#readme",
+  "bugs": {
+    "url": "https://github.com/harshit-kumar23/webcrawlerhttp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshit-kumar23/webcrawlerhttp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
